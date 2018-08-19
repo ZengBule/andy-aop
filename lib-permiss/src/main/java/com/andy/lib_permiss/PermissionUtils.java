@@ -15,7 +15,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.HashMap;
 
-public class PermissionUtils {
+public class  PermissionUtils {
 
     public static final int DEFAULT_REQUEST_CODE = 0xABC1994;
 
